@@ -32,24 +32,24 @@
 ![来自于CSDN图床](https://img-blog.csdnimg.cn/20201018111531407.png#picleft)
 
 
-# 2. 显示 文件 扩展名
-## 2.1. 打开 我的电脑，看左上角
+# 2. 显示 文件 扩展名（GitHub用户请忽略本步骤）
+## 2.1. 打开 我的电脑，看左上角（GitHub用户请忽略本步骤）
 ![来自于CSDN图床](https://img-blog.csdnimg.cn/2020101811155461.png#pic_center)
 
-## 2.2. 转到“查看”标签
+## 2.2. 转到“查看”标签（GitHub用户请忽略本步骤）
 ![来自于CSDN图床](https://img-blog.csdnimg.cn/20201018111604553.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTY4NjIwMQ==,size_16,color_FFFFFF,t_70#pic_center)
 
-## 2.3. 勾选“文件扩展名”选框即可。
+## 2.3. 勾选“文件扩展名”选框即可。（GitHub用户请忽略本步骤）
 
 
 # 3. 使用 KMS19 激活 Office 或 Windows
-## 3.0. 请下载下面这张图片
+## 3.0. （GitHub用户请忽略本步骤）请下载下面这张图片
 ![来自于CSDN图床](https://img-blog.csdnimg.cn/20201018111622709.jpg#pic_center)
 
-## 3.1. 修改文件扩展名为 .rar （而不是图示的.zip）
+## 3.1. （GitHub用户请忽略本步骤）修改文件扩展名为 .rar （而不是图示的.zip）
 ![来自于CSDN图床](https://img-blog.csdnimg.cn/20201018111711379.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTY4NjIwMQ==,size_16,color_FFFFFF,t_70#pic_center)
 
-## 3.2. 解压文件
+## 3.2. （GitHub用户请忽略本步骤）解压文件
 不需要密码
 
 ![来自于CSDN图床](https://img-blog.csdnimg.cn/20201018111721834.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTY4NjIwMQ==,size_16,color_FFFFFF,t_70#pic_center)
